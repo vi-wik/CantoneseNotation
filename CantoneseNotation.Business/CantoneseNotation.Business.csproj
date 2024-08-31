@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CantoneseNotation.DataAccess\CantoneseNotation.DataAccess.csproj" />
+    <ProjectReference Include="..\CantoneseNotation.Data\CantoneseNotation.Data.csproj" />
+    <ProjectReference Include="..\CantoneseNotation.Model\CantoneseNotation.Model.csproj" />
+    <ProjectReference Include="..\CantoneseNotation.Utility\CantoneseNotation.Utility.csproj" />
+  </ItemGroup>
+
+</Project>
