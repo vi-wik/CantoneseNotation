@@ -17,6 +17,6 @@
 
 
 #### 可执行文件
-[可执行文件下载](https://github.com/vi-wik/StaticResources/blob/master/executeFiles/CantoneseNotation/CantoneseNotation.zip)
+[可执行文件下载](https://pan.baidu.com/s/1onXTwkgjVV_7NXnnebcmcw?pwd=ycan)
 
 *说明：可执行文件需要预先安装[.NET 桌面运行时 8](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
